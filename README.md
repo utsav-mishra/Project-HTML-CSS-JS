@@ -3,7 +3,7 @@ This is a purely project-based repo. It is geared toward  enjoying creating smal
 
 ##Projects 
 
-###Bolier Plate : Link 
+###Bolier Plate : Link [https://github.com/utsav-mishra/Project-HTML-CSS-JS/tree/main/Boiler%20Plate]
 
 1. Blurry Loading
 2. Expanding Cards Tile
